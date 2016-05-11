@@ -18,7 +18,7 @@ except ImportError:
 # at ~/.credentials/drive-python-quickstart.json
 SCOPES = 'https://www.googleapis.com/auth/drive'
 CLIENT_SECRET_FILE = 'key_drive.json'
-APPLICATION_NAME = 'Drive API Python Quickstart'
+APPLICATION_NAME = 'NAME_OF_YOUR_APPLICATION'
 
 
 def get_credentials(SCOPES,CLIENT_SECRET_FILE,APPLICATION_NAME):
